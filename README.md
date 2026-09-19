@@ -1,6 +1,8 @@
 # Fly Control App Documentation
 
 ## Overview
+[Demo Video X/Tweet](https://x.com/michaelsebsbe/status/1898343622208115020?s=46)
+
 This iOS application integrates a WKWebView to load a web-based flight simulator from "https://fly.pieter.com" and uses device motion data (CoreMotion) to control the simulation. It includes haptic feedback for missile firing events and a debug interface for calibration.
 
 ## Features
